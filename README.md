@@ -17,6 +17,7 @@ For commands with spaces, use ""
 
 ```bash
 repeat "neofetch --arch_linux" 10
+```
 
 ## Installation
 
