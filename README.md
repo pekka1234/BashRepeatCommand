@@ -10,3 +10,9 @@ Repeates given command x times
 ```bash
 sudo chmod +x repeat
 ```
+
+3. Move to /bin/
+
+```bash
+sudo mv repeat /bin/repeat
+```
